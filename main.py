@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((900, 700))
 bg = pygame.image.load("statue_bg1.jpg")
 
 # MAKE AMRIKA GREAT AGAIN (title + caption)
-pygame.display.set_caption("Amrika ka dalal")
+pygame.display.set_caption("Make America Game Again")
 icon = pygame.image.load("united-states.png")
 pygame.display.set_icon(icon)
 
